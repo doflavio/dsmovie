@@ -2,18 +2,18 @@
 Projeto de app full-stack responsivo de avaliação de filmes, realizado em monorepo e com armazenamento em banco de dados relacional(Postgres) dividido em 4 episódios, onde cada episódio o professor [Nelio Alves](https://github.com/acenelio) explica passo-a-passo para realizá-lo. O site em deploy pode ser visto <a href="https://flaviopereira-dsmovies.netlify.app/" target="_blank">aqui</a>.
 
 ## Tecnologias
-O sistema utiliza React em seu front-end e Spring Boot no backend.
+O sistema utiliza React em seu frontend e Spring Boot no backend.
 
 ## Objetivos
 O projeto possui objetivos a cada episódio, a saber:
 
 - **Episódio 1 - Spring e React no mercado**: 
-    - Criar projetos back-end e front-end
+    - Criar projetos backend e frontend
     - Salvar os projeto no Github em monorepo
     - Montar o visual estático do front-end
     
 - **Episódio 2 - Aprofundando na Prática**: 
-    - Implementar o back-end
+    - Implementar o backend
     - Modelo de domínio
     - Acesso a banco de dados
     - Estruturar o back end no padrão camadas
@@ -21,7 +21,7 @@ O projeto possui objetivos a cada episódio, a saber:
     - Implantação na nuvem
 
 - **Episódio 3 - O Mapa da Carreira**: 
-    - Integrar back-end e front-end
+    - Integrar backend e frontend
     - Três pilares do React
         - Componentes
         - Props
@@ -31,9 +31,6 @@ O projeto possui objetivos a cada episódio, a saber:
         - useEffect
         - useParams
         - useNavigate
-
-- **Episódio 4 - Dúvidas Respondidas**: 
-    - Sanar dúvidas dos alunos nos canais de comunicação
 
 ## Funcionalidades
 - Tela Home (início): Tela inicial, onde mostra a lista de filmes cadastradas com páginas de navegação.
