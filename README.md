@@ -37,7 +37,7 @@ O projeto possui objetivos a cada episódio, a saber:
 
 ## Funcionalidades
 - Tela Home (início): Tela inicial, onde mostra a lista de filmes cadastradas com páginas de navegação.
-- Tela de Cadastro: Tela para cadastro e armazenamento de informações da Tela Home.
+- Tela de Cadastro: Tela para cadastro da avaliação do filme.
 
 ## Realização
 [DevSuperior - Escola de programação](https://devsuperior.com.br)
