@@ -35,9 +35,6 @@ O projeto possui objetivos a cada episódio, a saber:
 - **Episódio 4 - Dúvidas Respondidas**: 
     - Sanar dúvidas dos alunos nos canais de comunicação
 
-### Objetivos pessoais 
-O objetivo deste treinamento é aprofundar meus conhecimentos em Spring, framework do Java, e compreender o funcionamento full-stack de uma aplicação. Apesar de React não ser a ferramenta da minha stack, percebo aproximações conceituais com o framework que utilizo (no caso, Angular) e o treinamento tem contribuído para agregar conhecimentos. 
-
 ## Funcionalidades
 - Tela Home (início): Tela inicial, onde mostra a lista de filmes cadastradas com páginas de navegação.
 - Tela de Cadastro: Tela para cadastro e armazenamento de informações da Tela Home.
